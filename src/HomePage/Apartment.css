@@ -1,0 +1,13 @@
+.new{
+    height: 1300px;
+    width: 60%;
+    background-color:rgba(253, 253, 253, 0.781);
+    margin-left: 18rem ;
+    margin-bottom:2rem ;
+    box-shadow: -1px 0px 26px 0 rgb(0 0 0 / 61%);
+    }
+body{
+    background:linear-gradient(
+        180deg
+        ,rgba(0,0,0,.16),rgba(0,0,0,.8)), url("https://passiveincomemd.com/wp-content/uploads/2020/01/investing_in_apartment_buildings-scaled.jpg");
+}
